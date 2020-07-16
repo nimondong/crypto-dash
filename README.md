@@ -1,4 +1,12 @@
-# CRYPTO-DASH
-A R Shiny Cryptocurrency Dashboard
+# 👾 CRYPTO-DASH 👾
+A R Shiny Cryptocurrency Dashboard 
 
-Link to Deployed Shiny App: https://nimondong.shinyapps.io/crypto-dash/
+I created this dashboard in conjunction with Min Kim and Dane Holmes as part of our Data Visualization Final Project. 
+
+Features: 
+* Historical Prices
+* Market Capitalization
+* Search Trends
+* Buzz Words
+
+Link to Deployed App: https://nimondong.shinyapps.io/crypto-dash/
