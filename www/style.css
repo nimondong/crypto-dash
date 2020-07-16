@@ -1,0 +1,90 @@
+.skin-blue .main-header .logo {
+  background-color: #252525;
+  color: #fff;
+  border-bottom: 0 solid transparent;
+}
+
+.skin-blue .main-header .logo:hover {
+background-color: #3c3c3c;
+}
+
+.skin-blue .main-header .navbar {
+background-color: #252525;
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+background-color: #3c3c3c;
+}
+
+.skin-blue .left-side, .skin-blue .main-sidebar, .skin-blue .wrapper {
+background-color: #252525;
+}
+
+.content-wrapper, .right-side {
+background-color: #252525;
+}
+
+.box {
+border-radius: 3px;
+background: #3c3c3c;
+border-top: 0px solid #252525;
+box-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+
+body {
+color: #fff;
+background-color: #000;
+}
+
+.selectize-input.full {
+background-color: #252525;
+}
+
+.selectize-input {
+border: 1px solid #3c3c3c;
+}
+
+.selectize-input, .selectize-control.single .selectize-input.input-active {
+background: #252525;
+}
+
+.selectize-dropdown, .selectize-input, .selectize-input input {
+color: #fff;
+border: 0px solid rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+box-shadow: 0 0px 12px rgba(0, 0, 0, 0.175);
+}
+
+.skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a {
+color: #fff;
+background: #3c3c3c;
+border-left-color: #000;
+}
+
+.skin-blue .sidebar a {
+color: #eee;
+}
+
+.form-control {
+  color: #fff;
+  background-color: #252525;
+  border: 1px solid #ccc;
+}
+
+.input-group-addon {
+  color: #fff;
+}
+
+.input-group .input-group-addon {
+border-color: #d2d6de;
+background-color: #252525;
+}
+
+.dropdown-menu {
+  background-color: #3c3c3c;
+  border-color: #3c3c3c;
+}
+
+.selectize-dropdown, .selectize-dropdown.form-control {
+background: #3c3c3c;
+}
