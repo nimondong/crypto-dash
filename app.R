@@ -167,8 +167,8 @@ ui <- dashboardPage(
 
 server <- function(input, output) {
   
-  tiingo_api_key('a517f985b208a4b4a535f99f26e303625d699caa')
-  setup(api_key = "b66a77f4-a35c-4ef2-81a8-c9fabf528ccc")
+  tiingo_api_key('INSERT API KEY')
+  setup(api_key = "INSERT API KEY")
   
   output$graph_closing_price <- renderPlotly({
     
